@@ -1,8 +1,4 @@
 
----
-
-## ☁️ 2️⃣ **CareerTN – Cloud Platform (Web App + Infrastructure)**
-```markdown
 # ☁️ CareerTN – Cloud Platform
 
 > A cloud-native multi-tenant SaaS platform built to connect users and professionals, supported by an OpenStack-based private cloud infrastructure.
